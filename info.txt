@@ -14,4 +14,14 @@ reote changes
 hi new
 
 HI vinod
-hgyufghjhjhgcvh
+
+hi editor
+hihi
+<<<<<<< HEAD
+pora yadhava
+hihi
+=======
+>>>>>>> parent of 9349361 (99)
+
+vasanth 
+prakash
