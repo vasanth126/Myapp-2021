@@ -17,9 +17,11 @@ HI vinod
 
 hi editor
 hihi
-<<<<<<< HEAD
 pora yadhava
 hihi
+madu
+kiran
+hgyufghjhjhgcvh
 =======
 >>>>>>> parent of 9349361 (99)
 
